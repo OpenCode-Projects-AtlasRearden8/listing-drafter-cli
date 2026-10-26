@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+build/
+dist/
+drafts/
+listing-drafter.toml
+.venv/
+venv/
+.DS_Store
